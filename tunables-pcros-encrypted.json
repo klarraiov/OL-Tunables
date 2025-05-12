@@ -18,7 +18,7 @@
             1276779288
         ],
         [
-            1303864770
+            -1376505216
         ],
         [
             1958145876,
@@ -28,6 +28,9 @@
             -10990348,
             -9119258,
             -1475989677
+        ],
+        [
+            1303864770
         ]
     ],
     "tunables": {
@@ -728,6 +731,7 @@
         "_0x1A3BCFE7": 642600,
         "_0xEC4347D2": 1032500,
         "_0xF7C28CE": 774375,
+        "_0x8B7D3320": "3YJAkK9a6MyZR735XqRlMMoIzYLl/4LmJn3B/9v7xE0jFmWQYXrADGOGGVQcRQZBipv0ukcFlEDAfaC5jpvbFOnGWk6/2fD9gqpaIfSeQECVTSSdbmLm+is4y8Ghqg9isk/n/MAvadgKLigRcUFZtXUVGUMmqBf0eYC3cRqULndLJvg9Dd4LeEl9eu4VrV0TPRJStNx63kOqKdiZjr/dcFunRUnN67el7OOm8TEVJHc=",
         "_0x52BDAF86": true,
         "_0x10E20B88": true,
         "_0x5589583D": 140000,
@@ -750,9 +754,13 @@
         "_0x510AAE17": 2,
         "_0xFEB829D9": 20000,
         "_0x4108C19D": 2,
+        "_0xF4C18B94": 1,
         "_0xEFD68C16": 20000,
         "_0xE6D06FB2": 3,
         "_0x3437F472": 3,
-        "_0xE1E57034": 30000
+        "_0xE1E57034": 30000,
+        "_0x183A6FFD": 2,
+        "_0x195ABEB4": 2,
+        "_0xC7083A76": 20000
     }
 }

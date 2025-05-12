@@ -18,7 +18,7 @@
             "Double Down VII"
         ],
         [
-            "Don't Fuck With Dre"
+            "Open Wheel - Brace for Impact"
         ],
         [
             1958145876,
@@ -28,6 +28,9 @@
             -10990348,
             -9119258,
             -1475989677
+        ],
+        [
+            "Don't Fuck With Dre"
         ]
     ],
     "tunables": {
@@ -730,6 +733,7 @@
         "CONTENT_MODIFIER_1": {
             "XP_MULTIPLIER": 2,
             "FAKE_CASH_MULTIPLIER": 2,
+            "CASH_MULTIPLIER": 1,
             "JOB_RP_CAP": 20000
         },
         "MP_Global": {
@@ -768,6 +772,11 @@
             "CASH_MULTIPLIER": 3,
             "XP_MULTIPLIER": 3,
             "JOB_RP_CAP": 30000
+        },
+        "CONTENT_MODIFIER_3": {
+            "FAKE_CASH_MULTIPLIER": 2,
+            "XP_MULTIPLIER": 2,
+            "JOB_RP_CAP": 20000
         }
     }
 }
