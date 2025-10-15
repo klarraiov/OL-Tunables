@@ -1,6 +1,6 @@
 const fs = require('fs');
 const upath = require('upath');
-const http = require('http-wrapper');
+const http = require('../lib/http-wrapper');
 const { js_beautify: beautify } = require('js-beautify');
 const aesjs = require('aes-js');
 const CONFIG = require('../config');

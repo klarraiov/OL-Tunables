@@ -1,6 +1,6 @@
 const fs = require('fs');
 const upath = require('upath');
-const http = require('http-wrapper');
+const http = require('../lib/http-wrapper');
 const joaat = require('../lib/joaat');
 const CONFIG = require('../config');
 const jobsDictionary = require(upath.normalize(`../static/${CONFIG.FILE_NAMES.JOBS_DICTIONARY}`));
