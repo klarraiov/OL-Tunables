@@ -917,7 +917,17 @@
             "ENABLE_PLAYED_WITH_METRIC": true,
             "SCRIPT_MP_TIMEOUT": 140000,
             "SCRIPT_MP_TIMEOUT_SHORT": 90000,
-            "SCRIPT_MP_TIMEOUT_LONG": 180000
+            "SCRIPT_MP_TIMEOUT_LONG": 180000,
+            "_0x32A8E35B": true,
+            "_0x710BA044": 0,
+            "_0x2DD4DE60": 3,
+            "_0xDA01948C": 0.05,
+            "_0xFE0ADC9A": 0.9,
+            "_0x0FFD807F": 0.05,
+            "_0xEF2C8D1C": 0,
+            "_0xB5B81A34": 10,
+            "_0xC37AB5B9": 20,
+            "_0x1BC03CA1": 36000
         },
         "CD_GLOBAL": {
             "PVC_DAILY_PURCH_USDE_MAX": 9999,
@@ -931,7 +941,9 @@
             "NETWORK_TIME_OUT": 15000,
             "PLUS_EVENT_IS_ENABLED": true,
             "PLUS_PROMOTION_DISABLE_PAUSE_STORE_REDIRECT": false,
-            "TUNABLE_VERSION": 475,
+            "PLUS_EVENT_PROMOTION_ENABLED": true,
+            "PLUS_PROMOTION_DISABLE_ENTRY_PROMPT": true,
+            "TUNABLE_VERSION": 4751,
             "EVENT_WKLY": 475,
             "EVENT_MBSP": 45,
             "_0x6169DF6A": 0
