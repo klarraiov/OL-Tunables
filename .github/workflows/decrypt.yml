@@ -3,7 +3,7 @@ name: Decrypt Tunables
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 9 * * thu' # Every Thursday At 09:15
+    - cron: '15 10 * * thu' # Every Thursday At 10:15
 
 jobs:
   build:
