@@ -239,6 +239,11 @@
             "_0x8A049B06": true,
             "SOCIAL_CLUB_GARAGE_VEHICLE_3_WHEEL_TYPE": 7,
             "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_6": 0,
+            "GANGOPS_THE_IAA_JOB_CASH_REWARD": 877500,
+            "GANGOPS_THE_SUBMARINE_JOB_CASH_REWARD": 1282500,
+            "GANGOPS_THE_MISSILE_SILO_JOB_CASH_REWARD": 1620000,
+            "_0xABDE06E8": true,
+            "_0x50F5C4AF": false,
             "BIKER_DISABLE_SELL_HELICOPTER_DROP": true,
             "DISABLE_DISPATCH_WORK_HELI_SCAN": false,
             "DISABLE_DISPATCH_WORK_PRISONER_TRANSPORT": false,
@@ -1161,9 +1166,7 @@
         "CONTENT_MODIFIER_MEMBERSHIP_0": {
             "CASH_MULTIPLIER": 3,
             "XP_MULTIPLIER": 3,
-            "JOB_RP_CAP": 30000,
-            "_0xDB3EF744": true,
-            "_0x8056B50B": false
+            "JOB_RP_CAP": 30000
         },
         "MP_Global": {
             "_0x19EEFD4F": true,
@@ -1171,6 +1174,7 @@
             "SCRIPT_MP_TIMEOUT": 140000,
             "SCRIPT_MP_TIMEOUT_SHORT": 90000,
             "SCRIPT_MP_TIMEOUT_LONG": 180000,
+            "_0x66C572B0": 0,
             "_0x662E50C1": 2852718515,
             "_0x02FC4EF2": 1,
             "_0x2A816811": 8,
